@@ -2,12 +2,13 @@
 
 html {
     position: absolute;
+    width: 100%;
+    height: 100%;
     cursor: crosshair;
 }
 
 body {
-    width: 100%;
-    height: 100%;
+    position: relative;
     background-image: url("images/こっちにおいでよ.jpg");
     background-attachment: fixed;
     background-position: center;
