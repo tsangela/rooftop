@@ -1,3 +1,2 @@
 # Rooftop
-Blog Theme 1 - Rooftop
-https://tsangela.github.io/rooftop/
+Blog Theme 1 - Rooftop // A casual theme for casual bloggers featuring tasteful digital art. https://tsangela.github.io/rooftop/
